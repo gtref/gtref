@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm gtref.
+
+I find projects through friends, followers, and my GitHub feed. If something looks interesting, I'll probably fork it, find an issue, and start contributing.
+
+So far I've opened multiple pull requests across open-source projects.
+
+I enjoy building command-line tools, learning new technologies, and contributing to projects that seem fun or useful, even if I had never heard of them the day before. 
+
 <!--
 **gtref/gtref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
