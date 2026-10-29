@@ -20,6 +20,9 @@ An offline toolbox for Discord bot developers.
 ### SATISCODE
 A community project I've contributed to through bug fixes, improvements, and ongoing development.
 
+### Smart-Merge-CLI
+A tool to help solve those annoying git merge errors.
+
 ## My Interests
 
 - Open Source Software (OSS)
