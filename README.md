@@ -38,6 +38,7 @@ A tool to help solve those annoying git merge errors.
 - Various experiments and developer tools
 
 > I like finding interesting projects, learning how they work, and leaving them a little better than I found them.
+<!--
 
 ## GitHub Activity
 
@@ -45,7 +46,6 @@ A tool to help solve those annoying git merge errors.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gtref&theme=tokyonight)
 
-<!--
 **gtref/gtref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
