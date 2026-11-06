@@ -23,6 +23,9 @@ A community project I've contributed to through bug fixes, improvements, and ong
 ### Smart-Merge-CLI
 A tool to help solve those annoying git merge errors.
 
+### Powershell Post
+A tool built in the powershell language to simplify blogging
+
 ## My Interests
 
 - Open Source Software (OSS)
