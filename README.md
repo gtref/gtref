@@ -1,4 +1,5 @@
 # Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,php,c,cpp,git,github,jquery,kubernetes,linux)](https://skillicons.dev)
 
 I'm **gtref**.
 
